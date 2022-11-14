@@ -1,1 +1,3 @@
-[![APDI's GitHub stats](https://github-readme-stats.vercel.app/api?username=APDI-Team)](https://github.com/anuraghazra/github-readme-stats)
+# APDI
+
+We are a Mobile Application Development Team, consisting of korean students of The Hong Kong University of Science and Technology (HKUST).
